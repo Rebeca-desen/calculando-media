@@ -1,0 +1,23 @@
+{
+  "name": "calculando-media",
+  "version": "1.0.0",
+  "description": "exercício reprograma 16/08",
+  "main": "calculadora-de-media.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rebeca-desen/calculando-media.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rebeca-desen/calculando-media/issues"
+  },
+  "homepage": "https://github.com/Rebeca-desen/calculando-media#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
